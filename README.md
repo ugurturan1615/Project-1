@@ -1,4 +1,4 @@
 # PATIKA DEV FIRST PROJECT
 ## Insertion sort and Big O Notation
 
-Homework is completed.
+Homework is completed and check if worked or not.
