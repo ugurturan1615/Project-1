@@ -2,7 +2,6 @@
 
 Array:[7,5,1,8,3,6,0,9,4,2]
 
-### 7 Root Node;
 1. 7 root node.
 2. 5 lower than 7 so put it on left subtree.
 3. 1 lower than 7 so move to left, lower than 5 so move it left again.
