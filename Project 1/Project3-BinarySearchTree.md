@@ -1,4 +1,4 @@
-# Binary Search Tree
+# Project 3 - Binary Search Tree
 
 Array:[7,5,1,8,3,6,0,9,4,2]
 
