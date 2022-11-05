@@ -8,3 +8,5 @@ def flatten(x):
             new_l.append(i)
 flatten(l)
 print(new_l)
+
+#flattened the list
